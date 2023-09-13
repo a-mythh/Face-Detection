@@ -1,6 +1,6 @@
 # Real-time Face Detection
 
-This repository contains a real-time face detection system implemented in a Jupyter notebook by Amit Das. **The model was trained using images captured from a webcam, and the dataset was augmented using the 
+This repository contains a real-time face detection system implemented in a Jupyter notebook. **The model was trained using images captured from a webcam, and the dataset was augmented using the 
 *Albumentations* library. The entire dataset, consisting of approximately 5000 images, was meticulously curated by me.** The dataset was used for training, testing, and validation. Additionally, the initial images 
 were annotated using the ***LabelMe*** library.
 
