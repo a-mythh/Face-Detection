@@ -21,7 +21,7 @@ To use this real-time face detection system, follow these steps:
 
 1. **Download the Model and the App file:**
    - [Model](https://github.com/a-mythh/Face-Detection/raw/main/facetracker.h5)
-   - [App File](https://github.com/a-mythh/Face-Detection/raw/main/face_tracker_app.py)
+   - [App File](https://github.com/a-mythh/Face-Detection/blob/main/face_tracker_app.py)
 
 2. **Paste the files in a folder and open terminal in it.**
 
