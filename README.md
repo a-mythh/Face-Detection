@@ -19,22 +19,29 @@ contains coordinates for drawing the bounding box.
 
 To use this real-time face detection system, follow these steps:
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/a-mythh/Face-Detection.git
-   ```
+1. **Download the Model and the App file:**
+   - [Model](https://github.com/a-mythh/Face-Detection/raw/main/facetracker.h5)
+   - [App File](https://github.com/a-mythh/Recipes-App/raw/main/face_tracker_app.py)
 
-2. **Download required libraries**:
+2. **Paste the files in a folder and open terminal in it.**
+
+3. **Download required libraries**:
    ```bash
    pip install pandas numpy tensorflow opencv-python
    ```
 
-3. **Execute the App File**:
+4. **Execute the App File**:
    ```bash
    python face_tracker_app.py
    ```
 
 The model if to be used is saved in the `.h5` file.
+
+
+**Clone this repository:**
+```bash
+git clone https://github.com/a-mythh/Face-Detection.git
+```
 
 ## Dataset Augmentation and Annotation
 
