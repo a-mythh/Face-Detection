@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to reach out to with any questions or suggestions regarding this project.
+Feel free to reach out with any questions or suggestions regarding this project.
 
 Made by Amit Das.
 
