@@ -24,14 +24,17 @@ To use this real-time face detection system, follow these steps:
    git clone https://github.com/a-mythh/Face-Detection.git
    ```
 
-2. **Open the Jupyter Notebook**:
+2. **Download required libraries**:
    ```bash
-   jupyter notebook
+   pip install pandas numpy tensorflow opencv-python
    ```
-   Navigate to the `real_time_face_detection.ipynb` file.
 
-3. **Execute the Notebook**:
-Run the code blocks in the notebook to run the real-time face detection system. The model if to be used is saved in the `.h5` file.
+3. **Execute the App File**:
+   ```bash
+   python face_tracker_app.py
+   ```
+
+The model if to be used is saved in the `.h5` file.
 
 ## Dataset Augmentation and Annotation
 
