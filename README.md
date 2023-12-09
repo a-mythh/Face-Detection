@@ -35,7 +35,7 @@ To use this real-time face detection system, follow these steps:
    python face_tracker_app.py
    ```
 
-The model if to be used is saved in the `.h5` file.
+The model, if to be used, is saved in the `.h5` file.
 
 
 **Clone this repository:**
